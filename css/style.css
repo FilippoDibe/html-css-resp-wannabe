@@ -173,4 +173,12 @@ img {
     h3{
         font-size: 2rem;
     }
+    .why-us{
+        background-color:   #0f1220; 
+        padding: 20px 0;
+        margin-bottom: 0;
+    }
+    .steps{
+        margin-bottom: 0;
+    }
 }
